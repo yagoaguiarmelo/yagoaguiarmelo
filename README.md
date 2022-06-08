@@ -1,5 +1,11 @@
 ### Olá, me chamo Yago. Esse é meu portfólio, fique a vontade. Espero que goste!
 
+<div align="center">
+  <a href="https://github.com/yagoaguiarmelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagoaguiarmelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoaguiarmelo&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
 <!--
 **yagoaguiarmelo/yagoaguiarmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
